@@ -11,3 +11,4 @@
 * Used Python APIs such as IBM Watson Speech to text and Language Translator
 * Used Python REST APIs and HTTP Requests to understand the communication of Client and Servers, various methods such as Get,Post were explored.
 * Using the HTTP Requests, resouces available over web such as images were used as data.
+* Explored the Web Scrapping using python
