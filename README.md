@@ -12,5 +12,5 @@
 * Used Python REST APIs and HTTP Requests to understand the communication of Client and Servers, various methods such as Get,Post were explored.
 * Using the HTTP Requests, resouces available over web such as images were used as data.
 * Explored the Web Scrapping using python:
-        * Made use of Beautiful Soup and Pandas to extract contents of websites and transform the raw data.
-        * A combination of HTML and Python libraries help in deducing insights from the information available over the web.
+1. Made use of Beautiful Soup and Pandas to extract contents of websites and transform the raw data.
+2. A combination of HTML and Python libraries help in deducing insights from the information available over the web.
