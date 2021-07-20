@@ -14,3 +14,7 @@
 * Explored the Web Scrapping using python:
 1. Made use of Beautiful Soup and Pandas to extract contents of websites and transform the raw data.
 2. A combination of HTML and Python libraries help in deducing insights from the information available over the web.
+
+* Explored the various File formats, such as, CSV, JSON, XML, etc. Uploaded the data from various file formats and manipulated the data to draw the insights.
+* Data Analysis and Visualization was performed on a Diabetes Dataset.
+1. Matplot and Seaborn libraries are used for data visualization.
